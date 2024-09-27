@@ -1,0 +1,26 @@
+@font-face {
+    font-family: gilroy;
+    src: url(./Assets/gilroy-bold/Gilroy-Medium.ttf);
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    font-weight: 600;
+}
+
+
+body{
+    height: 100vh;
+}
+
+.slider{
+    height: 100vh;
+    background-color: #e6e6e2;
+
+}
+
+.formLogin{
+    height: 90vh;
+}
